@@ -5,7 +5,8 @@
 ## Install
 
 ```bash
-brew install kin0kaze23/tap/pulse
+brew tap kin0kaze23/pulse
+brew install pulse
 ```
 
 ## Verify
