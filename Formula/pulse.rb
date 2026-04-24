@@ -1,10 +1,10 @@
 class Pulse < Formula
   desc "Safe cleanup and machine audit for macOS developers"
   homepage "https://github.com/kin0kaze23/pulse"
-  url "https://github.com/kin0kaze23/pulse/releases/download/v0.2.6/pulse-universal.zip"
-  sha256 "21c1f2a896d08b49cb8535a180447343db401dd0684f4f0b267b976170564821"
+  url "https://github.com/kin0kaze23/pulse/releases/download/v0.2.7/pulse-universal.zip"
+  sha256 "b325dfc80a21219583b030caa59175fd999ade3e285c03b4bbe8167ec7e53ff8"
   license "MIT"
-  version "0.2.6"
+  version "0.2.7"
 
   depends_on macos: :sonoma
 
