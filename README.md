@@ -40,6 +40,9 @@ A single universal binary (`pulse`) in your Homebrew `bin` directory — no Swif
 | `xcode` | DerivedData, Archives, DeviceSupport, Simulators |
 | `homebrew` | Download cache, old formulae/casks |
 | `node` | npm cache, Yarn cache, pnpm store |
+| `python` | pip, Poetry, and uv caches |
+| `claude` | Claude Code logs, caches, transcripts |
+| `cursor` | Cursor IDE caches, logs, workspace storage |
 
 ## Links
 
